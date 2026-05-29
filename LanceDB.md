@@ -1,6 +1,7 @@
 
 # Lancedb
 Utile per la memoria persistente
+Modifica fatta il 29/05 che mi aspetto di vedere il 30/05
 
 Meme maker — cerca template meme e genera meme (immagini con didascalie sopra/sotto). Tipo quelle robe da gruppo WhatsApp alle 3 di notte.
 
